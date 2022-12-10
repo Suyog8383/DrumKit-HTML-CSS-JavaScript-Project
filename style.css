@@ -3,7 +3,8 @@
   padding: 0;
 }
 body {
-  background-color: aquamarine;
+  background-image: url("./9vm6.gif");
+  background-size: cover;
 }
 .container {
   display: flex;
